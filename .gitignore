@@ -2,3 +2,4 @@ input/
 __pycache__/
 gluonts/ 
 .cache/
+.DS_Store
